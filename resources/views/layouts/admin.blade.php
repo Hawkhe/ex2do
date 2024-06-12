@@ -103,7 +103,7 @@
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Almacen
+                Librerias
                 <i class="fas fa-angle-left right"></i>
               </p>
             </a>
@@ -111,13 +111,13 @@
               <li class="nav-item">
                 <a href="/puntoventadiego/public/almacen/producto" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Productos</p>
+                  <p>Libros</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="/puntoventadiego/public/almacen/categoria" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Categorías</p>
+                  <p>Libros</p>
                 </a>
               </li>
             </ul>
